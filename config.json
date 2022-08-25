@@ -1,16 +1,16 @@
 {
     "app_id": "wx208aca70cd362d5c",
     "app_secret": "bdbcb1887345fc5943f8fffd06cbc723",
-    "template_id": "k3iNCHG7R4ICh8UdTYlYnyposy-hKP807HK_bevlxAk",
+    "template_id": "8yWFrf4l7unfgiZChUmRloNe8p13GSYRGV8sqKz3Gfc",
     "user": [
         "ogFja58EZzXuCtrHVfcP8gLQiKKY"
     ],
-    "province": "广东",
-    "city": "广州",
-    "birthday1": "2000-11-03",
-    "birthday2": "2000-11-03",
-    "love_date": "2022-5-01",
-    "Whether_Eng": "",
+    "province": "江西",
+    "city": "赣州",
+    "birthday1": "r2003-7-6",
+    "birthday2": "2022-11-3",
+    "love_date": "2022-05-06",
+    "Whether_Eng": true,
     "Whether_caihongpi": false,
     "Whether_lizhi": false,
     "Whether_tip": false,
